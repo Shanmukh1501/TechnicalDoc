@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
-copyright = '2020, Harideep'
-author = 'Harideep'
+project = 'GITHUB SC Management'
+copyright = '2020, Shanmukh'
+author = 'Shanmukh'
 
 # The full version, including alpha/beta/rc tags
 release = ''
